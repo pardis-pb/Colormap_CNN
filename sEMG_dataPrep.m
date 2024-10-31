@@ -11,7 +11,10 @@
 
 
 % All the RGBs are required to be further resized to capture the requirements 
-% of the chosen CNN architecture. 
+% of the chosen CNN architecture.
+
+% Please acknowledge the links/citations provided as comment in the code for further
+% details.
 
 
 close all
