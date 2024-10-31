@@ -10,6 +10,8 @@
 % train/test are exactly the same across the colormaps.
 
 
+% All the RGBs are required to be further resized to capture the requirements 
+% of the chosen CNN architecture. 
 
 
 close all
